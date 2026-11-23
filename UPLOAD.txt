@@ -1,0 +1,24 @@
+UPLOAD INSTRUCTIONS (for Dedy — upload as a PUBLIC YouTube Short)
+====================================================================
+Clip file: ~/workspace/makefun-gta6-clipper/repo/clip/gta6-vice-city-chase-1080x1920.mp4
+  (RENDERED + VERIFIED 22 Nov 2026: vertical 9:16, 1080x1920, H.264 + AAC,
+  17.0 s, 12,690,555 bytes — hook + captions + make.fun pitch all legible)
+
+TITLE (copy exactly):
+GTA 6 is OUT — Vice City Has Never Looked Like This
+
+DESCRIPTION (copy exactly, whole block):
+GTA 6 is OUT NOW on PS5 and Xbox Series X|S — and Vice City has never looked like this. Jason & Lucia outrun the cops through neon-soaked Vice City. Welcome to Leonida.
+
+Footage: Rockstar Games' official GTA VI trailer, via @RockstarGames. Not affiliated with Rockstar Games.
+
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+makefun-parcel-hickory-caramel
+
+#GTA6 #ViceCity #Leonida #Shorts
+
+NOTES:
+- Publish as PUBLIC (not unlisted/private) BEFORE Mon 23 Nov 2026 01:00 UTC (08:00 WIB).
+- The description above carries the required bounty line word for word AND the play code makefun-parcel-hickory-caramel (fetched 22 Nov 2026 via the make.fun API, code 0 of 4).
+- After publishing, copy the video's Share URL (https://www.youtube.com/shorts/<11-char id>) into repo VIDEO.json, replacing the PLACEHOLDER.
